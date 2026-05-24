@@ -17,12 +17,8 @@ BASE_URL = "https://www.geo.tv/"
 # RSS URLs are kept configurable/fallback-friendly because media sites often change feed IDs.
 RSS_FEEDS = {
     "Pakistan": "https://www.geo.tv/rss/1/1",
-    "World": "https://www.geo.tv/rss/1/3",
-    "Business": "https://www.geo.tv/rss/1/4",
+    "World": "https://www.geo.tv/rss/1/2",
     "Sports": "https://www.geo.tv/rss/1/5",
-    "Entertainment": "https://www.geo.tv/rss/1/7",
-    "Tech": "https://www.geo.tv/rss/1/8",
-    "Health": "https://www.geo.tv/rss/1/10",
 }
 
 CATEGORY_KEYWORDS = {
